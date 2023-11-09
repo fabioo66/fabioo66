@@ -25,6 +25,7 @@
 
 
 <!--Intro start-->
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 - 🔭 I’m currently working to improve everyday
 
 - 🌱 I’m currently learning the basics of programming
