@@ -57,8 +57,8 @@
 
 ### Here's my github stats:
 
-![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical)](https://git.io/streak-stats) 
+![fabioo66 GitHub stats](https://github-readme-stats.vercel.app/api?username=fabio66&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabioo66&theme=radical)](https://git.io/streak-stats) 
 
 <!--profile visit count-->
 <div align="center">
