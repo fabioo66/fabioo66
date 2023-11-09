@@ -40,7 +40,6 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,java,github,vscode&perline=14" />
   </a>
