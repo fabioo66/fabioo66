@@ -32,18 +32,7 @@
 
 - 📫 Feel free to reach me out **torrejonfabio@gmail.com**
 
-<!--Intro end-->
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-    <summary><h2 style="display: inline-block"></h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-  <a href="https://skillicons.dev">
-    <img src=" />
-  </a>
-</p>
 
 ### Here's my github stats:
 
