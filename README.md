@@ -7,8 +7,6 @@
     <summary><h1 style="display: inline-block; text-align: center;">Hi 👋, I'm Fabio</h1></summary>
   </ul>
 </div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
