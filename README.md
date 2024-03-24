@@ -2,11 +2,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 centered without bottom border-->
-<div id="user-content-toc" style="text-align: center;">
-  <ul>
-    <summary><h1 style="display: inline-block;">Hi 👋, I'm Fabio</h1></summary>
-  </ul>
+<div align="center">
+  <h1>Hi 👋, I'm Fabio</h1>
 </div>
+
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
