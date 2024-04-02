@@ -31,7 +31,6 @@
 
 <div align="center">
     <a href="https://github.com/fabioo66/Taller-de-progamacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Taller-de-progamacion&theme=algolia&icon_color=F8D866"></a>
-    <a href="https://github.com/fabioo66/Mate-2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Mate-2&theme=algolia&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/Arquitectura-de-computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Arquitectura-de-computadoras&theme=algolia&icon_color=F8D866"></a>
 </div>
 
