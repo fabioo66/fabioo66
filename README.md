@@ -70,10 +70,8 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=fabioo66&icon=3&color=6" alt="Visit Count">
-  </a>
+[![](https://visitcount.itsvg.in/api?id=fabioo66&icon=3&color=6)](https://visitcount.itsvg.in)
+  
 </div>
 
 <!--horizontal divider(gradiant)-->
