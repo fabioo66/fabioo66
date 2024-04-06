@@ -4,6 +4,7 @@
 <!--h1 centered without bottom border-->
 <div align="center" style="color: #007bff;">
   <h1>Hi 👋, I'm Fabio</h1>
+  <img src="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1">
 </div>
 
 <!--h2 without bottom border-->
