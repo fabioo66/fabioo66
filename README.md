@@ -4,7 +4,6 @@
 <!--h1 centered without bottom border-->
 <div align="center" style="color: #007bff;">
   <h1>Hi 👋, I'm Fabio</h1>
-  <img src="https://github.com/fabioo66/fabioo66/blob/main/assets/147105399/13e5ed77-2831-4b1b-9499-f645ad0421d7.gif?raw=true">
 </div>
 
 <!--h2 without bottom border-->
