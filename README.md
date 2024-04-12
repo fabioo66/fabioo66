@@ -6,21 +6,6 @@
   <h1>Hi 👋, I'm Fabio</h1>
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc" style="color: #007bff;">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"></h2></summary>
-  </ul>
-</div>
-
-<!--Intro start-->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-- 🔭 I’m studying computer science at UNLP university
-
-- 🌱 I’m currently learning the basics of programming
-
-- 📫 Feel free to reach me out at **torrejonfabio@gmail.com**
-
 <!--h2 align="center">Primer año</h2-->
 <h2 align="center" style="color: #007bff;">Primer año👨‍💻</h2>
 <div align="center">
