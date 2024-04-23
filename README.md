@@ -50,9 +50,6 @@
   <a href="https://www.instagram.com/fabio_torrejon/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://twitter.com/fabiooo66">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=fabioo66&icon=3&color=6)](https://visitcount.itsvg.in)
