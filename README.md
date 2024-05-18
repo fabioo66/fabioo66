@@ -1,8 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Uploading coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif…]()
-
 <!--h1 centered without bottom border-->
 <div align="center" style="color: #007bff;">
   <h1>Hi 👋, I'm Fabio</h1>
@@ -47,10 +45,10 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/fabio-ignacio-torrejon-19148b291/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/fabio_torrejon/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=dark" alt="Instagram">
   </a>
 </div>
 
