@@ -25,6 +25,10 @@
     <a href="https://github.com/fabioo66/FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=FOD&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/AYED"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=AYED&theme=blue-green&icon_color=F8D866"></a>
     <a href="https://github.com/fabioo66/Seminario-de-python-"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Seminario-de-python-&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/fabioo66/ISO"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=ISO&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/fabioo66/OO1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=OO1&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/fabioo66/DBD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=DBD&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/fabioo66/ING-1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=ING-1&theme=blue-green&icon_color=F8D866"></a>
 </div>
 
 <!-- Add some space -->
