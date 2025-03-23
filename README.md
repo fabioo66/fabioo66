@@ -31,6 +31,15 @@
     <a href="https://github.com/fabioo66/ING-1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=ING-1&theme=blue-green&icon_color=F8D866"></a>
 </div>
 
+<!--h2 align="center">Tercer año</h2-->
+<h2 align="center" style="color: #007bff;">Tercer año👨‍💻</h2>
+<div align="center">
+    <a href="https://github.com/fabioo66/Mate-3"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=Mate-3&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/fabioo66/ING-2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=ING-2&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/fabioo66/CPLP"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=CPLP&theme=blue-green&icon_color=F8D866"></a>
+    <a href="https://github.com/fabioo66/OO2"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=OO2&theme=blue-green&icon_color=F8D866"></a>
+</div>
+
 <!-- Add some space -->
 <div style="margin-top: 50px;"></div>
 
